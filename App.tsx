@@ -7,9 +7,6 @@ const App = () => {
   return (
     // JSX
     <View>
-      <View style={styles.container}>
-        <Text style={styles.title}>Basic React Native</Text>
-      </View>
       <View style={styles.redbox}>
         <Text style={styles.title}>Local disc</Text>
         <Image
