@@ -11,7 +11,7 @@ const App = () => {
       <View style={styles.redbox}>
         <Text style={styles.title}>Local disc</Text>
         <Image
-          source={require('C:/AwesomeProject/assets/LOGO.png')}
+          source={require('./assets/LOGO.png')}
           style={styles.Image}
         />
       </View>
